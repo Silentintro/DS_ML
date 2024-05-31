@@ -1,0 +1,29 @@
+#list1 = ("Ayush")
+#list2 =("Singh")
+#c = list1+list2
+#print(c)
+
+ 
+#name = "UPFLAIRS"
+#print(name.lower())
+
+
+
+#print(len(name))
+
+
+
+#st = " hello LIET "
+
+#print(st.lstrip())
+
+#list =["banana","apple","mango","kiwi"]
+#list.insert(2,"watermeleon")
+#list.append("watermeleon")
+print(list)
+
+
+
+
+
+
